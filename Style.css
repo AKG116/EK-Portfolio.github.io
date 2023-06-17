@@ -29,7 +29,7 @@ a {
 }
 
 .navbar {
-    background-image: linear-gradient(rgba(245, 234, 234, 0.5), rgba(175, 170, 170, 0.5)), url("pexels-steve-johnson-1843717.jpg");
+    background-image: linear-gradient(rgba(245, 234, 234, 0.5), rgba(175, 170, 170, 0.5)), url("/Img/pexels-steve-johnson-1843717.jpg");
     box-shadow: var(--box-shadow);
     color: #21252f;
 }
